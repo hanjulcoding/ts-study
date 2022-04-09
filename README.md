@@ -10,7 +10,7 @@
 
 ## ✨ 스터디 방식
 
-- [디스코드](https://discord.gg/t3sEAmcX)를 통한 자율적인 논의
+- [디스코드](https://discord.gg/t3sEAmcX)를 통한 자율적인 학습
 
 - 서로 논의하며 부족한 논리를 채웁니다.
 
